@@ -4,4 +4,5 @@ print("print('what to print')")
 print("For Fun : Hello World!\nHello World\n" + "Angela")
 
 a = "Test"
-print(a)
+b = "Test Function for all"
+print(a + b)
